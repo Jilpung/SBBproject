@@ -44,13 +44,13 @@ Bootstrap과 thymeleaf를 사용해서 프론트를 간단히 제작.
 
   <summary>API 설계</summary>
 
-#### - 질문API
+- #### 질문API
 
 ![questionAPI](./img/questionAPI.png)
-#### - 답변API
+- #### 답변API
 
 ![answerAPI](./img/answerAPI.png)
-#### - 유저API
+- #### 유저API
 
 ![userAPI](./img/userAPI.png)
   </details>
@@ -63,7 +63,7 @@ Bootstrap과 thymeleaf를 사용해서 프론트를 간단히 제작.
     4. 댓글
     5. 소셜 로그인
 
-회고  
+- #### 회고  
 두번째 본격적인 spring boot로 만드는 board 프로젝트이다.  
 이번에는 책을 통해 만들어나가서 spring boot, thymeleaf의 구조를 더 잘 알아가며 프로젝트를 진행 할 수 있었다.  
 첫번째 sbb프로젝트보다 spring boot를 구조적으로 제대로 알 수 있어서 훨씬 배움이 많이 되었다.  
